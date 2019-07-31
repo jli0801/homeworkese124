@@ -1,0 +1,22 @@
+start
+
+set ident1 = 11
+set ident2 = -18.2
+set ident3 = +14;
+
+set 
+alarm 
+left
+move 
+blue 
+forward
+green 
+backwards
+
+set op1 = 2.90 + 4.578 - 79
+
+set compare = 6 <= -0.0 
+set compare1 = op3 >= +1.2345
+
+stop
+
