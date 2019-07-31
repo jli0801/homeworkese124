@@ -1,0 +1,6 @@
+B should not occur. The question states that “it pushes the integers 0 through 9 in order”. 
+Choice A has the first 5 inputs in the numerical order ( descending), starting from 4 and prints out the last 5 in descending order, 
+starting from 9. Choice B prints the composite numbers (ascending), then prints the prime numbers, leaving 0 and 1 last. Choice D 
+uses the same first half of Choice A, with it descending from 4, but the last 5 prints are in ascending order now, starting with 5. 
+Choice C is the only one without a logical pattern with pushing and pop from a stack and has no logical/mathematical formula to its arrangement. 
+However, the stacks are in numerical order so Choice B cannot happen, as the last two outputs are 0 and 1 in that order, which is illegal since 1 is larger.
